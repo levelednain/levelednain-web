@@ -1,0 +1,22 @@
+baseURL = 'https://levelednain.netlify.app/'
+languageCode = 'en-us'
+title = "LeveledNain's Information HQ"
+author = "LeveledNain"
+copyright = "Copyright © 2024, LeveledNain and the Hugo Authors; all rights reserved."
+paginate = 3
+enableInlineShortcodes = true
+
+[params]
+copyright = "Copyright © 2024, LeveledNain."
+
+[menu]
+[[menu.main]]
+identifier = "about"
+name = "About This Website"
+url = "/about/"
+weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
