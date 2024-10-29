@@ -4,4 +4,4 @@ TZ = "Asia/Jakarta"
 
 [build]
 publish = "public"
-command = "hugo server --baseURL=https://levelednain.netlify.app --gc --minify"
+command = "hugo server --baseURL=https://levelednain.netlify.app --appendPort=false --gc --minify"
