@@ -4,4 +4,4 @@ TZ = "Asia/Jakarta"
 
 [build]
 publish = "public"
-command = "hugo --gc --minify"
+command = "hugo -t 'holy' --gc --minify"
