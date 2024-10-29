@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'levelednain.netlify.app'
 languageCode = 'en-us'
 title = "LeveledNain's Information HQ"
 author = "LeveledNain"
